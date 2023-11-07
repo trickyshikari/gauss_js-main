@@ -1,0 +1,19 @@
+{
+  "name": "gauss",
+  "version": "1.0.0",
+  "description": "This project solves the given system of linear equations using Gauss-elimination method",
+  "main": "main.js",
+  "scripts": {
+
+    "test": "mocha --reporter min"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "sinon": "^17.0.1"
+  }
+}
